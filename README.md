@@ -12,7 +12,7 @@ This code contains a Tensorflow implementation for our paper - [Person Retrieval
 ```
 This code was initially tested on an Ubuntu 16.04 system using Tensorflow 1.12. 
 
-![Alt Text](https://github.com/Vanditg/Description_Based_Person_Identification/blob/master/readme_images/Person_Retrieval.jpeg)
+![Alt Text](https://github.com/Vanditg/Description-Based-Person-Identification/blob/master/readme_images/Person_Retrieval.jpeg)
 
 **The paper proposes a deep learning-based linear filtering approach for person retrieval using height, cloth color, and gender.**
 
@@ -41,7 +41,7 @@ To use the GUI version
 python app.py
 ```
 
-![Alt Text](https://github.com/Vanditg/Description_Based_Person_Identification/blob/master/readme_images/queries_screen.png)
+![Alt Text](https://github.com/Vanditg/Description-Based-Person-Identification/blob/master/readme_images/queries_screen.png)
 
 **Browse the video from your local disk and enter the soft-biometric features required to locate the desired person.**
 
@@ -53,6 +53,6 @@ python app.py
 
 ## Example Output Frames
 
-![Alt Text](https://github.com/Vanditg/Description_Based_Person_Identification/blob/master/readme_images/output.gif)
+![Alt Text](https://github.com/Vanditg/Description-Based-Person-Identification/blob/master/readme_images/output.gif)
 
 **Retrieving a person using torso color blue and gender female.**
