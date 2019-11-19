@@ -1,8 +1,7 @@
+# Copyright (c) Hiren Galiyawala, Kenil Shah, Vandit Gajjar, and Mehul S. Raval.
+
 from methods import *
 from data_bridge import *
-
-
-
 
 class Process_manager:
 

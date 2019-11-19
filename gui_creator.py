@@ -1,3 +1,5 @@
+# Copyright (c) Hiren Galiyawala, Kenil Shah, Vandit Gajjar, and Mehul S. Raval.
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog

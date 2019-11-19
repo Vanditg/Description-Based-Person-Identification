@@ -1,3 +1,5 @@
+# Copyright (c) Hiren Galiyawala, Kenil Shah, Vandit Gajjar, and Mehul S. Raval.
+
 import math
 import numpy as np
 from numpy.linalg import inv

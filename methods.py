@@ -1,3 +1,5 @@
+# Copyright (c) Hiren Galiyawala, Kenil Shah, Vandit Gajjar, and Mehul S. Raval.
+
 from data_bridge import *
 from cv2 import cv2
 import os

@@ -1,3 +1,5 @@
+# Copyright (c) Hiren Galiyawala, Kenil Shah, Vandit Gajjar, and Mehul S. Raval.
+
 from data_bridge import *
 from gui_creator import GUI_Creator_temp
 from process_manager import Process_manager

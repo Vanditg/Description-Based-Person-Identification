@@ -1,3 +1,5 @@
+# Copyright (c) Hiren Galiyawala, Kenil Shah, Vandit Gajjar, and Mehul S. Raval.
+
 def Singleton(klass):
     if not klass._instance:
         klass._instance = klass()

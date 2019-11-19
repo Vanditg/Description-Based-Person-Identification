@@ -10,7 +10,7 @@ This code contains a Tensorflow implementation for our paper - [Person Retrieval
   organization={IEEE}
 }
 ```
-This code was initially tested on an Ubuntu 16.04 system using Tensorflow 1.12. 
+This code was initially tested on an Ubuntu 16.04 system using Keras 2.0.8 with Tensorflow 1.12 backend. 
 
 ![Alt Text](https://github.com/Vanditg/Description-Based-Person-Identification/blob/master/readme_images/Person_Retrieval.jpeg)
 
@@ -56,3 +56,5 @@ python app.py
 ![Alt Text](https://github.com/Vanditg/Description-Based-Person-Identification/blob/master/readme_images/output.gif)
 
 **Retrieving a person using torso color blue and gender female.**
+
+Many thanks to [Matterport](https://github.com/matterport/Mask_RCNN) for the Mask R-CNN code. 
